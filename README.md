@@ -43,9 +43,10 @@ flowchart LR
     I --> J["Complaint Themes Discovery"]
 ```
 
-📈 Performance & Results
----------------------------------------------------------
-Metric                             |  Score
-Test Accuracy                      | 84.76%
-Macro Precision                    | 91.57%
-Negative Tweet Clusters Identified | 4 Distinct Themes
+## 📈 Performance & Results
+
+> ### 🎯 Model Evaluation
+> 
+> * **Test Accuracy:** `84.76%`
+> * **Macro Precision:** `91.57%`
+> * **Negative Tweet Clusters Identified:** `4 Distinct Themes`
