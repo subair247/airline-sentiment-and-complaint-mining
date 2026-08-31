@@ -51,7 +51,7 @@ flowchart LR
 > * **Macro Precision:** `91.57%`
 > * **Negative Tweet Clusters Identified:** `4 Distinct Themes`
 
-**🛠️ Tech Stack & Tools**
+## 🛠️ Tech Stack & Tools
 
 Programming Language: Python
 
