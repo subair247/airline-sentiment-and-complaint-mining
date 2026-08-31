@@ -50,3 +50,15 @@ flowchart LR
 > * **Test Accuracy:** `84.76%`
 > * **Macro Precision:** `91.57%`
 > * **Negative Tweet Clusters Identified:** `4 Distinct Themes`
+
+**🛠️ Tech Stack & Tools**
+
+Programming Language: Python
+
+Natural Language Processing: NLTK (stopwords, WordNetLemmatizer), Regular Expressions (re)
+
+Machine Learning & Vectorization: scikit-learn (TfidfVectorizer, MultinomialNB, KMeans, metrics)
+
+Dense Word Representations: gensim.models.Word2Vec
+
+Data Manipulation: pandas, numpy
