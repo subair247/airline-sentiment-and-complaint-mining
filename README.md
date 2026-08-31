@@ -62,3 +62,15 @@ Machine Learning & Vectorization: scikit-learn (TfidfVectorizer, MultinomialNB, 
 Dense Word Representations: gensim.models.Word2Vec
 
 Data Manipulation: pandas, numpy
+
+## ⚙️ Setup & Execution
+
+**1.Clone the repository**
+```
+git clone []
+```
+
+**2. Install dependencies**
+```
+pip install -r requirements.txt
+```
