@@ -67,7 +67,7 @@ Data Manipulation: pandas, numpy
 
 **1.Clone the repository**
 ```
-git clone []
+git clone [https://github.com/subair247/airline-sentiment-and-complaint-mining.git]
 ```
 
 **2. Install dependencies**
