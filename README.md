@@ -31,16 +31,16 @@ Additionally, this project automates root-cause analysis by training distributed
 
 ```mermaid
 flowchart LR
-    A[Raw Tweets] --> B[Custom Preprocessing\n(Preserve Negations)]
-    B --> C[TF-IDF Vectorization]
-    C --> D[MultinomialNB Classifier]
-    D --> E[Sentiment Predictions]
+    A["Raw Tweets"] --> B["Custom Preprocessing<br>(Preserve Negations)"]
+    B --> C["TF-IDF Vectorization"]
+    C --> D["MultinomialNB Classifier"]
+    D --> E["Sentiment Predictions"]
     
-    B --> F[Filter Negative Tweets]
-    F --> G[Word2Vec Embeddings\n(vector_size=100)]
-    G --> H[Average Sentence Vectors]
-    H --> I[K-Means Clustering]
-    I --> J[Complaint Themes Discovery]
+    B --> F["Filter Negative Tweets"]
+    F --> G["Word2Vec Embeddings<br>(vector_size=100)"]
+    G --> H["Average Sentence Vectors"]
+    H --> I["K-Means Clustering"]
+    I --> J["Complaint Themes Discovery"]
 ```
 
 📈 Performance & Results
